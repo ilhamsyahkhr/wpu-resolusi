@@ -1,0 +1,4 @@
+ilham Resolusi
+- Konsisten untuk membuat projek ngoding 2x seminggu
+- Membuat platform untuk pengelolaan video
+- Membuat forum diskusi
